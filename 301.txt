@@ -1,5 +1,5 @@
-/sculpture-motley-cruise/ -> /exhibit-archives/sculpture-motley-cruise/ 301
-/blog/ -> /exhibit-archives/ 301
+/sculpture-motley-cruise/ -> /exhibitions-archive/sculpture-motley-cruise/ 301
+/blog/ -> /exhibitions-archive/blog/ 301
 /thresholds/ -> /exhibitions-archive/thresholds/ 301
 /epilogue/ -> /exhibitions-archive/epilogue/ 301
 /shout/ -> /exhibitions-archive/shout/ 301
@@ -7,7 +7,8 @@
 /distillations/ -> /exhibitions-archive/distillations/ 301
 /garsot/ -> /exhibitions-archive/garsot/ 301
 /2812/ -> /exhibitions-archive/2812/ 301
-/2655/ -> /exhibitions-archive/2655/ 301/30th-anniversary-exhibition/ -> /exhibitions-archive/30th-anniversary-exhibition/ 301
+/2655/ -> /exhibitions-archive/2655/ 301
+/30th-anniversary-exhibition/ -> /exhibitions-archive/30th-anniversary-exhibition/ 301
 /49th-annual-arc-members-show/ -> /exhibitions-archive/49th-annual-arc-members-show/ 301
 /8-by-8-open/ -> /exhibitions-archive/8-by-8-open/ 301
 /8291-2/ -> /exhibitions-archive/8291-2/ 301
